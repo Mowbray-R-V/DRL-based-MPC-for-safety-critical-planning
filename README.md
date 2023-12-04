@@ -13,5 +13,10 @@ The critic model structure:
 
 #To-DO
 
+# Installation
+
+# Usage
+
+
 RL for learning the combinatorial problem, model image, CNN kernel, MA-DDPG
 algorithm images
