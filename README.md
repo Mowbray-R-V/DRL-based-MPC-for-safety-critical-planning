@@ -1,9 +1,8 @@
 # Deep RL based MPC for Safety Critical Planning in Multi Agent System 
 
-In the problem of optimal unsignalized intersection management for continual streams of randomly arriving robots. This problem involves repeatedly solving different instances of a mixed integer program, for which the computation time using a naive optimization algorithm scales exponentially with the number of robots and lanes. Hence, such an approach is not suitable for real-time implementation. The use of end-to-end RL with formal safety guarantees for a multi-agent system
+The problem of optimal unsignalized intersection management for continual streams of randomly arriving robots is considered. This problem involves repeatedly solving different instances of a mixed integer program, for which the computation time using a naive optimization algorithm scales exponentially with the number of robots and lanes. Hence, such an approach is not suitable for real-time implementation. On the other hand the use of end-to-end RL with formal safety guarantees for a fast moving multi-agent system is still a open are of research. This work proposes a hybrid framework that use Deep RL methods for learning a combinatorial problem and MPC for trajectory plannig. This way we can guarantee a formal safety for collision avoidance and a siginificant reduction in computational time. 
 
 
-This work propose a solution framework that combines learning and sequential optimization. In particular, we propose an algorithm for learning a shared policy that given the traffic state information, determines the crossing order of the robots. Then, we optimize the trajectories of the robots sequentially according to that crossing order. This approach inherently guarantees safety at all times. 
 
 
 
