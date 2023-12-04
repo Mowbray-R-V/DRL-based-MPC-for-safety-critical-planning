@@ -17,6 +17,11 @@ The critic model structure:
 
 # Usage
 
+# Hyperparametrs 
+https://github.com/jannerm/mbpo
+
+# Results
+
 
 RL for learning the combinatorial problem, model image, CNN kernel, MA-DDPG
 algorithm images
