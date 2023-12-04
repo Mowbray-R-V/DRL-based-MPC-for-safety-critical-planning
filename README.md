@@ -17,7 +17,9 @@ The critic model structure:
 
 1. clone the repository
    
- ``` git clone https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning.git ``` 
+ ``` 
+ git clone https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning.git
+ ``` 
  
 2. Create a conda environment and install
 
