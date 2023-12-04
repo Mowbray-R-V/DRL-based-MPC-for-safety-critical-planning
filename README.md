@@ -6,6 +6,7 @@ We consider the problem of optimal unsignalized intersection management for cont
 
 
 ![](https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/edit/main/archi-2.png)
+
 ![](https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/edit/main/archi-RL.png)
 
 #To-DO
