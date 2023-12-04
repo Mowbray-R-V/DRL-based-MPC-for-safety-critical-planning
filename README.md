@@ -16,7 +16,8 @@ The critic model structure:
 # Installation
 
 1. clone the repository
-2. ''' fvfvfd '''
+2. ``` fvfvfd ```
+
 
 # Usage
 
