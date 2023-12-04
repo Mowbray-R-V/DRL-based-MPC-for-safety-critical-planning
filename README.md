@@ -29,11 +29,6 @@ The critic model structure:
  ```
 
 
-# Usage
-
-# Hyperparametrs 
-https://github.com/jannerm/mbpo
-
 # Results
 
 
