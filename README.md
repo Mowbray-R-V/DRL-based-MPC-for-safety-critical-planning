@@ -11,8 +11,6 @@ The critic model structure:
 
 ![](https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/edit/main/archi-RL.png)
 
-#To-DO
-
 # Installation
 
 1. clone the repository
