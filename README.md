@@ -26,7 +26,7 @@ The critic model structure:
  ``` cd DRL-based-MPC-for-safety-critical-planning
      conda env create -f environment.yml
      conda activate sample
- run run_tr-te.sh 
+     run run_tr-te.sh 
  ```
 
 
