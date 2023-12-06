@@ -7,7 +7,7 @@ In this work we use the DDPG algorithm
 explain the architecture
 The actor model structure:
 
-The critic model structure:
+
 
 ![](https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/edit/main/archi-2.png)
 
