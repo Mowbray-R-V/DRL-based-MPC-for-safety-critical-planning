@@ -5,7 +5,7 @@ The problem of optimal unsignalized intersection management for continual stream
 In this work we use the DDPG algorithm
 
 explain the architecture
-The actor model structure:
+The actor model:
 
 
 
