@@ -5,9 +5,7 @@ The problem of optimal unsignalized intersection management for continual stream
  MA-DDPG actor model
 ![](https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/blob/main/RL-MPC/model.png)
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/blob/main/RL_0d11.mp4"Now in Android: 55")   
+
 
 # Installation
 
