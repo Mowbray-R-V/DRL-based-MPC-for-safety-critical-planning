@@ -22,8 +22,3 @@ The problem of optimal unsignalized intersection management for continual stream
  ```
 
 
-# Results
-
-
-RL for learning the combinatorial problem, model image, CNN kernel, MA-DDPG
-algorithm images
