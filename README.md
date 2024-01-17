@@ -16,8 +16,6 @@ The problem of optimal unsignalized intersection management for continual stream
  
 2. Create a conda environment and install
 
-# Simulation results
-https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/assets/106313820/cf509cbe-3f54-4a64-8c77-d4d6ddfc1130
 
  ``` cd DRL-based-MPC-for-safety-critical-planning
      conda env create -f environment.yml
@@ -25,4 +23,6 @@ https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/assets
      run run_tr-te.sh 
  ```
 
+# Simulation results
+https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/assets/106313820/cf509cbe-3f54-4a64-8c77-d4d6ddfc1130
 
