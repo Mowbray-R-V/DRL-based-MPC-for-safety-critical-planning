@@ -6,11 +6,6 @@ The problem of optimal unsignalized intersection management for continual stream
 ![](https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/blob/main/RL-MPC/model.png)
 
 
-
-https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/assets/106313820/cf509cbe-3f54-4a64-8c77-d4d6ddfc1130
-
-
-
 # Installation
 
 1. clone the repository
@@ -20,6 +15,9 @@ https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/assets
  ``` 
  
 2. Create a conda environment and install
+
+# Simulation results
+https://github.com/Mowbray-R-V/DRL-based-MPC-for-safety-critical-planning/assets/106313820/cf509cbe-3f54-4a64-8c77-d4d6ddfc1130
 
  ``` cd DRL-based-MPC-for-safety-critical-planning
      conda env create -f environment.yml
